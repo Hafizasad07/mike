@@ -2147,7 +2147,7 @@ font-size: 18px;
 .border-180::after {
     left: auto;
     right: -3px;
-    width: 11px;
+    width: 15px;
     bottom: -3px;
     height: 4px;
     background-color: #fff;
@@ -2161,6 +2161,10 @@ font-size: 18px;
 .product-details.text-center,
 .shopping-text.text-center{
     text-align: right !important;
+}
+
+.price-details-card{
+    padding-left: 20px;
 }
 }
 
